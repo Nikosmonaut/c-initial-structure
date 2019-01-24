@@ -1,6 +1,6 @@
 # Simple c++ structure
 
-Basic c++ structure to create c++ projects
+Basic c++ structure
 
 ### Installing
 
