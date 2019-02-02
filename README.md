@@ -1,6 +1,6 @@
-# Simple c++ structure
+# Simple c structure
 
-Basic c++ structure
+Basic c structure
 
 ### Installing
 
